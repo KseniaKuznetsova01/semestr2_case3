@@ -114,7 +114,7 @@ def main(color_1, color_2):                                     # Main function.
 
     get_color_choice()                                          # Calling the function to select a color .
     size_of_pict = get_num_hexagons()
-    lines_ = ((50 / 2 / size_of_pict) ** 2 / 6) * 2             # Length of the polygon's side.
+    lines_ = ((500 / 2 / size_of_pict) ** 2 / 6) * 2             # Length of the polygon's side.
     lines_for = ((lines_ ** 2 - (lines_ / 2) ** 2) ** 1 / 2)    # Offset depending on the parity line.
 
     on_line = 1
