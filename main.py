@@ -1,7 +1,7 @@
 """
     Case-study #5 Tessellation
     Developers:
-    Panukova E.(100%), Kuznetsova K.(100%)
+    Panukova E.(90%), Kuznetsova K.(20%)
 
 """
 import local as lc
